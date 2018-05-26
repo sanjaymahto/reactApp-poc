@@ -7,7 +7,7 @@ Checkout this repo, install dependencies, then start the gulp process with the f
 
 ```
 > git clone https://github.com/sanjaymahto/reactApp-poc.git
-> cd ReduxSimpleStarter
+> cd reactApp-poc
 > npm install
 > npm start
 ```
